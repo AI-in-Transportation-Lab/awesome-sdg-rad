@@ -35,12 +35,12 @@ By consolidating the state of the art, this collection bridges theory and practi
 Whether you are developing privacy-preserving AI systems, building synthetic data benchmarks, or exploring simulation-to-reality transfer, this repository offers a centralized and continuously evolving platform for advancing realism, causality, and governance in artificial data ecosystems. 
 
 ## Last Updated
-May 19, 2026 at 01:59:52 AM UTC
+May 20, 2026 at 01:59:03 AM UTC
 
 
 ## Theorem
 
-## Papers (117)
+## Papers (121)
 - [Generative Correlation Manifolds: Generating Synthetic Data with Preserved Higher-Order Correlations](https://arxiv.org/abs/2510.21610)
 - [FABRIC: Framework for Agent-Based Realistic Intelligence Creation](https://arxiv.org/abs/2510.17995)
 - [A Controllable Examination for Long-Context Language Models](https://arxiv.org/abs/2506.02921)
@@ -158,6 +158,10 @@ May 19, 2026 at 01:59:52 AM UTC
 - [GLiNER2-PII: A Multilingual Model for Personally Identifiable Information Extraction](https://arxiv.org/abs/2605.09973)
 - [ToolWeave: Structured Synthesis of Complex Multi-Turn Tool-Calling Dialogues](https://arxiv.org/abs/2605.12521)
 - [ShopGym: An Integrated Framework for Realistic Simulation and Scalable Benchmarking of E-Commerce Web Agents](https://arxiv.org/abs/2605.16116)
+- [SENSE: Satellite-based ENergy Synthesis for Sustainable Environment](https://arxiv.org/abs/2605.18101)
+- [Generating Pretraining Tokens from Organic Data for Data-Bound Scaling](https://arxiv.org/abs/2605.17849)
+- [CasualSynth: Generating Structurally Sound Synthetic Data](https://arxiv.org/abs/2605.17528)
+- [SynVA: A Modular Toolkit for Vessel Generation and Aneurysm Editing](https://arxiv.org/abs/2605.17620)
 
 
 ## Library
