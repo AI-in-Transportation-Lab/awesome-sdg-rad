@@ -35,12 +35,12 @@ By consolidating the state of the art, this collection bridges theory and practi
 Whether you are developing privacy-preserving AI systems, building synthetic data benchmarks, or exploring simulation-to-reality transfer, this repository offers a centralized and continuously evolving platform for advancing realism, causality, and governance in artificial data ecosystems. 
 
 ## Last Updated
-June 2, 2026 at 02:14:27 AM UTC
+June 3, 2026 at 02:32:36 AM UTC
 
 
 ## Theorem
 
-## Papers (124)
+## Papers (125)
 - [Generative Correlation Manifolds: Generating Synthetic Data with Preserved Higher-Order Correlations](https://arxiv.org/abs/2510.21610)
 - [FABRIC: Framework for Agent-Based Realistic Intelligence Creation](https://arxiv.org/abs/2510.17995)
 - [A Controllable Examination for Long-Context Language Models](https://arxiv.org/abs/2506.02921)
@@ -165,6 +165,7 @@ June 2, 2026 at 02:14:27 AM UTC
 - [Generation of Heterogeneous PET Images from Uniform Organ Activity Maps Using a Pretrained Domain-Adapted Diffusion Model](https://arxiv.org/abs/2605.20267)
 - [Evolutionary Refinement of Generative Graph Topologies: A Hybrid WGAN-GA Approach](https://arxiv.org/abs/2605.29161)
 - [MedCase-Structured: A Text-to-FHIR Dataset for Benchmarking Diagnostic Reasoning in Clinically Realistic EHR Settings](https://arxiv.org/abs/2605.30295)
+- [MariData: One-Step Unpaired Image Translation for Maritime Environments](https://arxiv.org/abs/2606.03246)
 
 
 ## Library
