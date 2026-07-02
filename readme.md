@@ -35,12 +35,12 @@ By consolidating the state of the art, this collection bridges theory and practi
 Whether you are developing privacy-preserving AI systems, building synthetic data benchmarks, or exploring simulation-to-reality transfer, this repository offers a centralized and continuously evolving platform for advancing realism, causality, and governance in artificial data ecosystems. 
 
 ## Last Updated
-July 1, 2026 at 02:07:01 AM UTC
+July 2, 2026 at 01:59:51 AM UTC
 
 
 ## Theorem
 
-## Papers (138)
+## Papers (139)
 - [Generative Correlation Manifolds: Generating Synthetic Data with Preserved Higher-Order Correlations](https://arxiv.org/abs/2510.21610)
 - [FABRIC: Framework for Agent-Based Realistic Intelligence Creation](https://arxiv.org/abs/2510.17995)
 - [A Controllable Examination for Long-Context Language Models](https://arxiv.org/abs/2506.02921)
@@ -179,6 +179,7 @@ July 1, 2026 at 02:07:01 AM UTC
 - [Catastrophic Compositional Generation: Why Vanilla Diffusion Models Fail to Extrapolate](https://arxiv.org/abs/2606.23920)
 - [A Neuroimaging Simulation Framework for Developing and Evaluating Causal AI](https://arxiv.org/abs/2606.28684)
 - [Language-Assisted Super-Resolution from Real-World Low-Resolution Patches](https://arxiv.org/abs/2606.31363)
+- [Controllable Diffusion-Based Lesion Inpainting for Scalable Histopathology Data Augmentation](https://arxiv.org/abs/2601.08127)
 
 
 ## Library
