@@ -35,12 +35,12 @@ By consolidating the state of the art, this collection bridges theory and practi
 Whether you are developing privacy-preserving AI systems, building synthetic data benchmarks, or exploring simulation-to-reality transfer, this repository offers a centralized and continuously evolving platform for advancing realism, causality, and governance in artificial data ecosystems. 
 
 ## Last Updated
-September 30, 2026 at 02:39:52 AM UTC
+October 1, 2026 at 02:44:25 AM UTC
 
 
 ## Theorem
 
-## Papers (166)
+## Papers (167)
 - [Generative Correlation Manifolds: Generating Synthetic Data with Preserved Higher-Order Correlations](https://arxiv.org/abs/2510.21610)
 - [FABRIC: Framework for Agent-Based Realistic Intelligence Creation](https://arxiv.org/abs/2510.17995)
 - [A Controllable Examination for Long-Context Language Models](https://arxiv.org/abs/2506.02921)
@@ -207,6 +207,7 @@ September 30, 2026 at 02:39:52 AM UTC
 - [LLMs as Master Forgers: Generating Synthetic Time Series Data for Manufacturing](https://arxiv.org/abs/2609.16155)
 - [CityLearn v3: A Configurable Simulation and Evaluation Framework for Realistic Control Studies of Renewable Energy Communities](https://arxiv.org/abs/2609.21570)
 - [Bootstrapping Conversational Recommendation Agents At Spotify: Synthetic Data Generation and Self-Improvement Loops](https://arxiv.org/abs/2609.30297)
+- [Re-ranking and Late Interaction Drive Retrieval Quality: A Controlled Comparison of RAG Strategies for Scientific Question Answering](https://arxiv.org/abs/2609.38473)
 
 
 ## Library
