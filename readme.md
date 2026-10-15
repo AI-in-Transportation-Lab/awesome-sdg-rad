@@ -35,12 +35,12 @@ By consolidating the state of the art, this collection bridges theory and practi
 Whether you are developing privacy-preserving AI systems, building synthetic data benchmarks, or exploring simulation-to-reality transfer, this repository offers a centralized and continuously evolving platform for advancing realism, causality, and governance in artificial data ecosystems. 
 
 ## Last Updated
-October 14, 2026 at 02:23:09 AM UTC
+October 15, 2026 at 02:04:03 AM UTC
 
 
 ## Theorem
 
-## Papers (174)
+## Papers (176)
 - [Generative Correlation Manifolds: Generating Synthetic Data with Preserved Higher-Order Correlations](https://arxiv.org/abs/2510.21610)
 - [FABRIC: Framework for Agent-Based Realistic Intelligence Creation](https://arxiv.org/abs/2510.17995)
 - [A Controllable Examination for Long-Context Language Models](https://arxiv.org/abs/2506.02921)
@@ -215,6 +215,8 @@ October 14, 2026 at 02:23:09 AM UTC
 - [Two-Sample Testing via Path-based Inference](https://arxiv.org/abs/2610.05684)
 - [ToolRACER: A Robust Agentic Conversation Emulation Resource for Agent Training and Evaluation](https://arxiv.org/abs/2610.09163)
 - [TabQueryBench: A Query-Centric Benchmark for Synthetic Tabular Data](https://arxiv.org/abs/2607.03926)
+- [TabGift: A Context-Efficient Foundation Model for Tabular Data Generation](https://arxiv.org/abs/2610.16990)
+- [SLS-Bench: A Benchmark for Incident Log Summarization with Synthetic Observability Data](https://arxiv.org/abs/2610.16412)
 
 
 ## Library
