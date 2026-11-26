@@ -35,12 +35,12 @@ By consolidating the state of the art, this collection bridges theory and practi
 Whether you are developing privacy-preserving AI systems, building synthetic data benchmarks, or exploring simulation-to-reality transfer, this repository offers a centralized and continuously evolving platform for advancing realism, causality, and governance in artificial data ecosystems. 
 
 ## Last Updated
-November 25, 2026 at 05:51:03 AM UTC
+November 26, 2026 at 05:41:22 AM UTC
 
 
 ## Theorem
 
-## Papers (186)
+## Papers (187)
 - [Generative Correlation Manifolds: Generating Synthetic Data with Preserved Higher-Order Correlations](https://arxiv.org/abs/2510.21610)
 - [FABRIC: Framework for Agent-Based Realistic Intelligence Creation](https://arxiv.org/abs/2510.17995)
 - [A Controllable Examination for Long-Context Language Models](https://arxiv.org/abs/2506.02921)
@@ -227,6 +227,7 @@ November 25, 2026 at 05:51:03 AM UTC
 - [TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator](https://arxiv.org/abs/2611.26722)
 - [orGAN: A Synthetic Data Augmentation Pipeline for Simultaneous Generation of Surgical Images and Ground Truth Labels](https://arxiv.org/abs/2506.14303)
 - [HandiVid: A High-Quality Dataset for Hand-Driven Interactive Video Generation](https://arxiv.org/abs/2611.29693)
+- [ExtractBench Pro: The Long Tail of Document Extraction](https://arxiv.org/abs/2611.33791)
 
 
 ## Library
